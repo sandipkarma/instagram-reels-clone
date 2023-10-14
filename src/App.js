@@ -1,4 +1,5 @@
 import React from "react";
+import "../src/assets/logo.png"
 import "./App.css";
 
 function App() {
